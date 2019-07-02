@@ -1,1 +1,1 @@
-# guess_who
+# guess-who
